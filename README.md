@@ -18,6 +18,9 @@
 - Preparing for my capstone project.
 
 ### :muscle: Things I am currently challenging myself with:
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathi-rao&hide=TeX&layout=compact&show_icons=true&theme=radical" />
+
 - Working out for atleast 4 days a week
 - Getting to bed early and not working late
 - Improving technical skills for my Master thesis
@@ -30,10 +33,11 @@
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<!--This is a workaround for now. Need to fix it in near future-->  
-<code><img width="10%" src="https://camo.githubusercontent.com/7864a835480cbcf37ac521314f8d432ea0928d8836df9179351e1a85794c25a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69744c6561726e2532302d2532334545344332432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5363696b69744c6561726e266c6f676f436f6c6f723d7768697465"></code>
-<br />
+<!--Include sklearn-->  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>-->  
 </p>
