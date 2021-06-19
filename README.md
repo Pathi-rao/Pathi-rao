@@ -6,7 +6,7 @@
 
 
 
-## Welcome and thanks for your interest in my profile. Please scroll down to know more about me
+### Welcome and thanks for your interest in my profile. Please scroll down to know more about me
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical" />
 
