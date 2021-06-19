@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Lakshmipathi rao Devalla. You can call me as Pathi.
-### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜
+#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Pathi-rao)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devalla-lakshmipathirao/)
@@ -22,7 +22,6 @@ Welcome and thanks for your interest in my profile. Please scroll down to know m
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
