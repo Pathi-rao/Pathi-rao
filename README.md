@@ -1,9 +1,10 @@
-### Hi there 👋, My name is Lakshmipathi rao Devalla. You can call me as Pathi.
-#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜
+### Hi there 👋, My name is Lakshmipathi rao Devalla but you can call me Pathi.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Pathi-rao)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devalla-lakshmipathirao/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lakshmipathi0000@gmail.com)
+#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜
+
 
 Welcome and thanks for your interest in my profile. Please scroll down to know more about me
 
