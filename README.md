@@ -17,7 +17,7 @@
 - Completing AI Engineering course at [Strive School](https://strive.school/)
 - Preparing for my capstone project.
 
-### :muscle: Things I am currently challenging myself with:
+### :muscle: Things that I am currently challenging myself with:
 - Working out for atleast 3 days a week
 - Improving technical skills for my Master thesis
 - Teaching frontend by myself
