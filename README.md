@@ -24,9 +24,7 @@
 - Working out for atleast 4 days a week
 - Getting to bed early and not working late
 - Improving technical skills for my Master thesis
-- Teaching frontend by myself
-- Learn backend --> In the near future.
-
+- Learning frontend by myself
 
 ### :computer: Programming languages and tools: 
 <p>
