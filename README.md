@@ -12,12 +12,12 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical" />
 
-### 🌱 Things that I am currently working on: 
+### 🌱 Things I am currently working on: 
 - Completing my Master Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
 - Completing AI Engineering course at [Strive School](https://strive.school/)
 - Preparing for my capstone project.
 
-### :muscle: Things that I am currently challenging myself with:
+### :muscle: Things I am currently challenging myself with:
 - Working out for atleast 3 days a week
 - Improving technical skills for my Master thesis
 - Teaching frontend by myself
