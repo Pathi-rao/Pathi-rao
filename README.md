@@ -6,7 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lakshmipathi0000@gmail.com)
 
 Welcome and thanks for your interest in my profile. Please scroll down to know more about me
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical)]
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical" />
 
 #### 🌱 Things that I am currently working on: 
 - Completing my Master Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
