@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Lakshmipathi rao Devalla.
-#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜 but for now you can call me as Pathi.
+#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜. But for now, you can call me as Pathi.
 
 ##### You can reach me here:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Pathi-rao)
@@ -15,16 +15,17 @@
 ### 🌱 Things I am currently working on: 
 - Completing my Masters Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
 - Completing AI Engineering course at [Strive School](https://strive.school/)
-- Preparing for my capstone project.
+- Preparing for my capstone project
+- Working on my personal projects.
 
 ### :muscle: Things I am currently challenging myself with:
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathi-rao&hide=TeX&layout=compact&show_icons=true&theme=radical" />
 
 - Working out for atleast 4 days a week
-- Getting to bed early and not working late
+- Getting to bed early and drinking more water
 - Improving technical skills for my Master thesis
-- Learning frontend by myself
+- Trying to learn frontend by myself 
 
 ### :computer: Programming languages and tools: 
 <p>
