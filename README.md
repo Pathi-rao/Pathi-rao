@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Lakshmipathi rao Devalla.
-#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜. But for now, you can call me as Pathi.
+#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜. You can also call me as Pathi.
 
 ##### You can reach me here:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Pathi-rao)
