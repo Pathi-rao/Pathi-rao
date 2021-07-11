@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Lakshmipathi rao Devalla.
-#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😜. You can also call me as Pathi.
+#### Btw if you managed to spell my name correctly for the first time, I will buy you a coffee 😁.
 
 ##### You can reach me here:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Pathi-rao)
@@ -22,7 +22,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathi-rao&hide=TeX&layout=compact&show_icons=true&theme=radical" />
 
-- Working out for atleast 4 days a week
+- Working out for atleast 3 days a week
 - Getting to bed early and drinking more water
 - Improving technical skills for my Master thesis
 - Trying to learn frontend
