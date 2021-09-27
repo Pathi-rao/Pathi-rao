@@ -14,8 +14,7 @@
 
 ### 🌱 Things I am currently working on: 
 - Completing my Masters Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
-- Completing AI Engineering course at [Strive School](https://strive.school/)
-- Preparing for my capstone project
+- Working on my Master's Thesis
 - Working on my personal projects.
 
 ### :muscle: Things I am currently challenging myself with:
@@ -24,7 +23,6 @@
 
 - Working out for atleast 3 days a week
 - Getting to bed early and drinking more water
-- Improving technical skills for my Master thesis
 - Trying to learn frontend
 
 ### :computer: Programming languages and tools: 
