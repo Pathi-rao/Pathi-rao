@@ -23,7 +23,7 @@
 
 - Working out for atleast 3 days a week
 - Getting to bed early and drinking more water
-- Trying to learn frontend
+- Learning FastAPI
 
 ### :computer: Programming languages and tools: 
 <p>
