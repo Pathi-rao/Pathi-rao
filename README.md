@@ -13,17 +13,17 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical" />
 
 ### 🌱 Things I am currently working on: 
-- Completing my Masters Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
-- Working on my Master's Thesis
-- Working on my personal projects.
+- Completing Masters Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
+- Working on Master's Thesis
+- Working on personal projects.
 
 ### :muscle: Things I am currently challenging myself with:
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pathi-rao&hide=TeX&layout=compact&show_icons=true&theme=radical" />
 
 - Working out for atleast 3 days a week
-- Getting to bed early and drinking more water
-- Learning React and FastAPI
+- Getting early to bed and drinking more water
+- Learning React and Haystack
 
 ### :computer: Programming languages and tools: 
 <p>
