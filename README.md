@@ -14,7 +14,7 @@
 
 ### 🌱 Things I am currently working on: 
 - Looking for full-time opportunities in Data Science and Machine Learning
-- Working on personal projects.
+- Learning cloud technologies
 
 ### :muscle: Things I am currently challenging myself with:
 
@@ -22,7 +22,7 @@
 
 - Working out for atleast 3 days a week
 - Getting early to bed and drinking more water
-- Learning cloud technologies
+
 
 ### :computer: Programming languages and tools: 
 <p>
