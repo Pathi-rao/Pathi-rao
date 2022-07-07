@@ -13,8 +13,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical" />
 
 ### 🌱 Things I am currently working on: 
-- Completing Masters Degree in Computational Methods of Engineering at [Leibniz University Hannover](https://www.uni-hannover.de/en/)
-- Working on Master's Thesis
+- Looking for full-time opportunities in Data Science and Machine Learning
 - Working on personal projects.
 
 ### :muscle: Things I am currently challenging myself with:
@@ -23,7 +22,7 @@
 
 - Working out for atleast 3 days a week
 - Getting early to bed and drinking more water
-- Learning React and Haystack
+- Learning cloud technologies
 
 ### :computer: Programming languages and tools: 
 <p>
