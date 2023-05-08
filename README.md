@@ -13,7 +13,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pathi-rao&show_icons=true&theme=radical" />
 
 ### 🌱 Things I am currently working on: 
-- Looking for full-time opportunities in Data Science and Machine Learning
+- Working on my GCP certification
 - Learning cloud technologies
 
 ### :muscle: Things I am currently challenging myself with:
